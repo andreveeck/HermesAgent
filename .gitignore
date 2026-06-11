@@ -4,6 +4,8 @@ __pycache__/
 *.pyc
 logs/
 *.log
+*.pid
+data/*.json
 *.db
 *.sqlite
 *.sqlite3
