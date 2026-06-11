@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ed053e9f",
+    "text": "trocar oleo da moto",
+    "times": [
+      "10:00",
+      "13:00"
+    ],
+    "days": "daily",
+    "active": true,
+    "last_sent": {
+      "10:00": "2026-06-11",
+      "13:00": "2026-06-11"
+    }
+  }
+]
